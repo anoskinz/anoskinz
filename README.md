@@ -1,6 +1,4 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
 <p>Welcome to my page! </br> I'm , Fullstack developer</b>. </p>
 <h3>Things I code with</h3>
 <p>
@@ -30,6 +28,24 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+<h2>Notes: Now playing
+</br>
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+  <p align="center"><a href="https://www.last.fm/music/Avantasia/Ghostlights"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f27bbac3df62a3bcd1e7768ca8a6dcc6.png" title="Avantasia - Ghostlights"></a> <a href="https://www.last.fm/music/Blind+Guardian/A+Twist+in+the+Myth"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0ca1499a97a44031a4ecf9abaa68c9c9.jpg" title="Blind Guardian - A Twist in the Myth"></a> <a href="https://www.last.fm/music/Avantasia/Moonglow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b71f7b878f48a82421767cfbe76e525f.jpg" title="Avantasia - Moonglow"></a> <a href="https://www.last.fm/music/Avantasia/The+Scarecrow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/35c70cdff2f74b9a877dfea2ea8314e7.png" title="Avantasia - The Scarecrow"></a> <a href="https://www.last.fm/music/Edguy/Mandrake+(Anniversary+Edition)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/eb702bc78f6683ece9c2d881eeecf921.jpg" title="Edguy - Mandrake (Anniversary Edition)"></a> <a href="https://www.last.fm/music/Masterplan/Masterplan"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c4b3b12f77bb4e67ab720872eba62109.jpg" title="Masterplan - Masterplan"></a> <a href="https://www.last.fm/music/Rhapsody/Dawn+of+Victory"><img src="https://lastfm.freetls.fastly.net/i/u/64s/fa97f553c4b4bf96baf2fc8a03e07b51.jpg" title="Rhapsody - Dawn of Victory"></a> <a href="https://www.last.fm/music/twenty+one+pilots/Clancy"><img src="https://lastfm.freetls.fastly.net/i/u/64s/44592187ade17dafe3531db1b7cafbe1.jpg" title="twenty one pilots - Clancy"></a> <a href="https://www.last.fm/music/Blind+Guardian/Imaginations+From+The+Other+Side+(Remastered+2007)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/735d3eaf8186a2bc952420456144b1a3.jpg" title="Blind Guardian - Imaginations From The Other Side (Remastered 2007)"></a> <a href="https://www.last.fm/music/Edguy/Mandrake"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3bfe75cd6285bac4b7a2759fc576375b.jpg" title="Edguy - Mandrake"></a> <a href="https://www.last.fm/music/Edguy/The+Singles"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c2bceb0a072148a1c8c0131d896dc89b.png" title="Edguy - The Singles"></a> <a href="https://www.last.fm/music/Helloween/Keeper+of+the+Seven+Keys,+Pt.+II+(Expanded+Edition)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5ab9931d77ecc8b9ab218662d34272ac.jpg" title="Helloween - Keeper of the Seven Keys, Pt. II (Expanded Edition)"></a> </p>
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+  </details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+    <summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
